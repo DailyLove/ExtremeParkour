@@ -1,0 +1,14 @@
+name: ExtremeParkour
+main: com.DailyLove.ExtremeParkour.extremeParkour
+version: 0.6.5
+authors: [DailyLove]
+
+depend: [Vault]
+
+commands:
+  parkour:
+    usage: /<command>
+    description: Main command
+  pa:
+    usage: /<command>
+    description: Main command
